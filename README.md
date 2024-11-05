@@ -1,4 +1,4 @@
-# Hi there  
+# Hi there! 👋 I'm glad you're here.
 # 💫 About Me:
 I'm Kobra Eslami, a passionate Frontend Developer,focusing on building smooth, responsive web experiences designed to surpass user expectations.
 I have a strong foundation in HTML, CSS, and JavaScript, and I'm always looking to expand my skills. Currently, I'm diving into React.js, Next.js, and Node.js, as well as working with the Bootstrap framework, MySQL, and MongoDB databases.
