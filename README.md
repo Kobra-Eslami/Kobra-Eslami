@@ -8,10 +8,7 @@ With expertise in HTML, CSS, and JavaScript, I continuously expand my skills by 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kobra-eslami) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19512441) 
 
-
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kobra-Eslami&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kobra-Eslami&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kobra-Eslami&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kobra-eslami&hide_progress=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
