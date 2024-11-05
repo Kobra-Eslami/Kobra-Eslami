@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h3>My Expertise</h3>
-<img src='https://skillicons.dev/icons?i=html,css,js,mongodb,mysql,ts,nextjs,nodejs,react,sass,bootstrap,git,github,webstorm,stackoverflow,postman,npm,gitlab&theme=light' alt='no-experties'/>
+<img src='https://skillicons.dev/icons?i=html,css,js,mongodb,mysql,ts,nextjs,nodejs,react,sass,bootstrap,git,github,webstorm,stackoverflow,postman,npm,gitlab&theme=dark&perline=4' alt='no-experties'/>
 <!--
 **Kobra-Eslami/Kobra-Eslami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
