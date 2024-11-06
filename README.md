@@ -13,6 +13,6 @@ I believe that having a well-designed user experience is key to making web appli
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kobra-eslami) 
 ## 📊 GitHub Stats:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kobra-eslami) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19512441)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kobra-eslami&layout=compact&hide_progress=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
