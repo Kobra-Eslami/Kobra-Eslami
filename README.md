@@ -13,7 +13,9 @@ I’m dedicated to providing top-notch web experiences and excited to connect wi
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kobra-eslami) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19512441)   -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kobra-eslami) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19514352)
-## 📊 GitHub Stats:
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Kobra-Eslami&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kobra-Eslami&theme=default&hide_border=true)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kobra-eslami&layout=compact&hide_progress=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
